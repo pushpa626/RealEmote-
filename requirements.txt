@@ -1,0 +1,5 @@
+opencv-python
+numpy
+fer
+moviepy==1.0.3
+imageio_ffmpeg
